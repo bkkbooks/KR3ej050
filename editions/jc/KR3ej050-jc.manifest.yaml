@@ -1,0 +1,324 @@
+canonical_identifier: bkk:krp/KR3ej050/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej050/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 原瘄要論
+  identifiers:
+    krp: KR3ej050
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej050.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej050_000-jc.yaml, hash: 'sha256:37852cec25881eed53c2368c0f4a447fe3084ceddf1bd3a31fb6b4c77b84a223'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej050_000-jc.markers.yaml, hash: 'sha256:86d787635dd53b8508a0ae882017d69f203ec29c45721d72110ac017989d52c2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 143
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 428
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d4.h1s1
+    span:
+    - body
+    - 428
+    - 680
+  label: 論汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d5.h1s1
+    span:
+    - body
+    - 680
+    - 1086
+  label: 麻症乾渴發熱論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d6.h1s1
+    span:
+    - body
+    - 1086
+    - 1227
+  label: 論下身冷全身冷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d7.h1s1
+    span:
+    - body
+    - 1227
+    - 1287
+  label: 論口瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d8.h1s1
+    span:
+    - body
+    - 1287
+    - 1359
+  label: 論腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d9.h1s1
+    span:
+    - body
+    - 1359
+    - 1411
+  label: 論吐痰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d10.h1s1
+    span:
+    - body
+    - 1411
+    - 1651
+  label: 論唇舌乾燥唇舌破裂舌苔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d11.h1s1
+    span:
+    - body
+    - 1651
+    - 1738
+  label: 論發斑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d12.h1s1
+    span:
+    - body
+    - 1738
+    - 1813
+  label: 論云暗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d13.h1s1
+    span:
+    - body
+    - 1813
+    - 2097
+  label: 看疹諸色論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d14.h1s1
+    span:
+    - body
+    - 2097
+    - 2195
+  label: 論咳嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d15.h1s1
+    span:
+    - body
+    - 2195
+    - 2555
+  label: 論鼻涕鼻衄鼻扇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d16.h1s1
+    span:
+    - body
+    - 2555
+    - 2622
+  label: 論發搐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d17.h1s1
+    span:
+    - body
+    - 2622
+    - 2798
+  label: 總附咳嗽諸方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d18.h1s1
+    span:
+    - body
+    - 2798
+    - 2931
+  label: 總附渴症諸方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d19.h1s1
+    span:
+    - body
+    - 2931
+    - 3052
+  label: 總附鼻涕鼻衄諸方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d20.h1s1
+    span:
+    - body
+    - 3052
+    - 3105
+  label: 發水泡論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d21.h1s1
+    span:
+    - body
+    - 3105
+    - 3152
+  label: 論氣促
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d22.h1s1
+    span:
+    - body
+    - 3152
+    - 3226
+  label: 眼閉論總附白珠赤珠
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d23.h1s1
+    span:
+    - body
+    - 3226
+    - 3285
+  label: 齧牙論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d24.h1s1
+    span:
+    - body
+    - 3285
+    - 3308
+  label: 論吐沫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d25.h1s1
+    span:
+    - body
+    - 3308
+    - 3426
+  label: 論蛔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d26.h1s1
+    span:
+    - body
+    - 3426
+    - 3462
+  label: 論嘔吐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d27.h1s1
+    span:
+    - body
+    - 3462
+    - 3627
+  label: 論泄瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d28.h1s1
+    span:
+    - body
+    - 3627
+    - 9184
+  label: 論藥味所忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d29.h1s1
+    span:
+    - body
+    - 9184
+    - 9238
+  label: 胎產
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d30.h1s1
+    span:
+    - body
+    - 9238
+    - 9314
+  label: 產後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej050_jc_000-d31.h1s1
+    span:
+    - body
+    - 9314
+    - 13189
+  label: 虞氏麻疹治法
+  type: section
+  level: 1
+hash: sha256:b524b4f1f1056031ba699283f4b8f958756aa899d0fb0020cef84d5c126bd18c
