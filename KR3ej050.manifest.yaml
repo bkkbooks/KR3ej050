@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej050/v1
 canonical_location: https://kanripo.org/bkk/KR3ej050/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 原瘄要論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej050_000.yaml, hash: 'sha256:37852cec25881eed53c2368c0f4a447fe3084ceddf1bd3a31fb6b4c77b84a223'}
+  - {seq: 0, filename: KR3ej050_000.yaml, hash: 'sha256:649dd60de4eaa3b38560ce69feb9d404eb1b9a6ecea1dfaed9898a7dde938341'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej050_000.markers.yaml, hash: 'sha256:ad66ffba5136f40ab489e7eec829cf6e01080be6ce0aa5be729a51b59df8658f'}
+  - {seq: 0, role: markers, filename: assets/KR3ej050_000.markers.yaml, hash: 'sha256:45e471dbe24c2decde1d2ebff3a96c664101e1aea25868ffab500f08042ddfb3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,4 +321,7 @@ table_of_contents:
   label: 虞氏麻疹治法
   type: section
   level: 1
-hash: sha256:a1e179cf76c65122a74cf1b0f5e11fa298af4344bb7622ef65ffe6d833df36a5
+hash: sha256:a7b73ce77f7e4e279c36c3bfbd9d1a7208342c44351b3a4989e6d64826f79c20
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
