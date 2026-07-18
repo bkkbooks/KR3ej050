@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej050_000.yaml, hash: 'sha256:649dd60de4eaa3b38560ce69feb9d404eb1b9a6ecea1dfaed9898a7dde938341'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej050_000.markers.yaml, hash: 'sha256:45e471dbe24c2decde1d2ebff3a96c664101e1aea25868ffab500f08042ddfb3'}
+  - {seq: 0, role: markers, filename: assets/KR3ej050_000.markers.yaml, hash: 'sha256:b5700a49afa23c5f69172ad9cd0ed6a002000c7945e06097b077573b6c08f1cf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,7 +321,7 @@ table_of_contents:
   label: 虞氏麻疹治法
   type: section
   level: 1
-hash: sha256:a7b73ce77f7e4e279c36c3bfbd9d1a7208342c44351b3a4989e6d64826f79c20
+hash: sha256:fe5f5c59df502d7cbedee3f7d3a995a31c5aa2ee1f2484b5ea1cf489d30bed09
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
